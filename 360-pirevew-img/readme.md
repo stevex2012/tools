@@ -4,3 +4,11 @@
 
 同是支持pc，mobile
 实现思路是通过 监听水平滑动 滑动距离计算为对应角度，对应角度对应为对应图片索引。
+
+demo测试
+
+pnpm i 
+
+pnpm dev 
+ 
+图片来自其他网址图片（wei lai car guang wang）
