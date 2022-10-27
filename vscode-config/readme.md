@@ -9,6 +9,8 @@ type nul > settings.json
 
 ```json
 {
+  // 用于vscode右下角工具栏展示eslint标识
+  "eslint.alwaysShowStatus": true,
   // 文件保存自动格式化
   "editor.formatOnSave": true,
   // 格式化插件设置为 prettier
